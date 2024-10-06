@@ -1,7 +1,7 @@
 # Virtual-Mouse-with-Hand-Gestures
 This Python project allows you to control your computer mouse using hand gestures captured by your webcam. It utilizes OpenCV, MediaPipe, PyAutoGUI, and other libraries to achieve this functionality.
 
-![Overall Trade Trend](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+![Overall Trade Trend](https://github.com/SayantanzX/Virtual-Mouse-with-Hand-Gestures/blob/main/Picture.png)
 
 
 Features:
