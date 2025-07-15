@@ -307,12 +307,6 @@ class Controller:
                 Controller.pinchmajorflag = True
             Controller.pinch_control(hand_result,Controller.changesystembrightness, Controller.changesystemvolume)
         
-'''
-----------------------------------------  Main Class  ----------------------------------------
-    Entry point of Gesture Controller
-'''
-
-
 class GestureController:
     gc_mode = 0
     cap = None
@@ -400,6 +394,5 @@ class GestureController:
         GestureController.cap.release()
         cv2.destroyAllWindows()
 
-# uncomment to run directly
 gc1 = GestureController()
 gc1.start()
